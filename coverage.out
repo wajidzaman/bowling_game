@@ -1,0 +1,11 @@
+mode: set
+bowling/bowling.go:7.31,10.2 2 1
+bowling/bowling.go:12.26,15.31 3 1
+bowling/bowling.go:30.2,30.14 1 1
+bowling/bowling.go:15.31,16.28 1 1
+bowling/bowling.go:16.28,21.4 4 0
+bowling/bowling.go:21.8,21.33 1 1
+bowling/bowling.go:21.33,25.4 3 0
+bowling/bowling.go:25.8,28.4 2 1
+bowling/bowling.go:32.45,34.2 1 1
+bowling/bowling.go:35.44,37.2 1 1
